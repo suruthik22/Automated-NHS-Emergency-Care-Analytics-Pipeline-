@@ -84,31 +84,31 @@ nhs/
 └── requirements.txt
 
 ## Insights and recommendations
-1. High proportion of patients breaching the 4-hour target
-About 25.83% of A&E attendances exceeded the 4-hour wait target (vs NHS standard of 95% within 4 hours), showing persistent system pressure despite slight improvement from 2024 to 2025.
-Recommendation: Improve A&E–inpatient patient flow and implement real-time operational dashboards for capacity monitoring or staff reorganisation.
+1. High proportion of patients breaching the 4-hour target :
+About 25.83% of A&E attendances exceeded the 4-hour wait target (vs NHS standard of 95% within 4 hours), showing system pressure despite slight improvement from 2024 to 2025.
+Recommendation: Improve patient flow and implement real-time operational dashboards for capacity monitoring, planning or staff reorganisation.
 
-2. Seasonal demand drives waiting time 
-Waiting times increase between August and January, indicating strong winter pressure linked to seasonal illnesses and higher emergency demand.
-Recommendation: Use predictive demand forecasting and increase winter staffing, bed capacity and community care support.
+2. Seasonal demand drives waiting time:
+Waiting times increase between August and January, indicating higher pressure linked to seasonal illnesses in winter and higher emergency demand.
+Recommendation: Use predictive demand forecasting and increase winter staffing, bed capacity and community support.
 
-3. Type 1 emergency departments drive most delays
+3. Type 1 emergency departments drive most delays:
 Type 1 departments handle 61% of attendances but account for 95% of >4-hour waits, highlighting congestion in major emergency departments.
-Recommendation: Can consider diversion to urgent treatment centres (Type 3) and expand capacity in high-pressure EDs.
+Recommendation: Can consider diversion to urgent treatment centres (Type 3) and expand capacity in high-pressure departments
 
-4. Long admission delays (>12 hours) are increasing
+4. Long admission delays (>12 hours) are increasing:
 Around 2% of patients face >12-hour delays from decision to admit to admission, indicating downstream hospital bed and capacity constraints.
 Recommendation: Improve discharge planning, bed management and hospital flow systems to reduce admission bottlenecks.
 
-5. Performance varies significantly across regions and organisations
-Some lower-volume regions show higher waiting percentages, while certain high-volume organisations maintain better performance, suggesting operational efficiency differences.
-Recommendation: Benchmark high-performing trusts, analyse staffing and resource allocation, and implement targeted performance improvement strategies.
+5. Performance varies significantly across regions and organisations:
+Some low volume regions show higher waiting percentages, while certain high volume organisations maintain better performance, suggesting operational efficiency differences.
+Recommendation: Benchmark high-performing trusts, analyse staffing and resource allocation and implement targeted performance improvement strategies.
 
 ## Business value of this project
 1. Operational performance monitoring: The dashboard enables continuous tracking of A&E demand, waiting time performance and regional variations to support operational decision-making.
-2. Demand and capacity planning: Identifying seasonal patterns and long admission delays helps healthcare managers plan staffing, bed capacity and winter demand strategies more effectively.
+2. Demand and capacity planning: Identifying seasonal patterns and long admission delays helps healthcare managers plan staffing, bed capacity and winter demand strategies more effectively
 3. Benchmarking and performance improvement: Organisation-level comparisons highlight high-performing trusts and underperforming systems, enabling the adoption of best practices across the NHS network.
-4. This analysis demonstrates how healthcare operational data can be transformed into actionable insights for improving patient flow and reducing waiting times.
+4. This analysis demonstrates how healthcare operational data can be transformed into actionable insights for improving patient flow and reducing waiting times
 5. Scalable analytics framework supporting large-scale healthcare performance analytics across multiple organisations and regions.
 
 ## Future Improvements
