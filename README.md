@@ -7,7 +7,7 @@ The dashboard helps in analysis of historical trends in A&E performance, patient
 
 ## OBJECTIVES
 
-1. Build an automated ETL pipeline for healthcare data analysis.
+1. Build an automated ETL pipeline for healthcare data analysis
 2. Design a star schema data model suitable for analytics.
 3. Perform trend analysis of A&E attendances.
 4. Track Month-over-Month (MoM) and Year-over-Year (YoY) performance.
